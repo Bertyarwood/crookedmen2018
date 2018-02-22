@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Old Lags Golf\nBert\nYarwood\nCrooked men",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -477,7 +477,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "Old Lags Events",
         "title": "Events",
         "order": 2
       },
@@ -1093,7 +1093,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Web Generator Description",
+        "meta_descr": "Old Lags Players",
         "title": "Players",
         "order": 1
       },
