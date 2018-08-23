@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 67,
+    "uniqCompNum": 68,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -1836,10 +1836,28 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"85\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/clubhouse-blue-sky-420x200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>August 20th</b><br><b>Where </b>Not Lingdale GC but Kirby<br><b>Organiser: Dave West</b><br><b>Details: </b>Tee Times 2:05 &amp; 2:13<br><b>Cost: </b>£50 per tee time<br>&nbsp;<br><b>Playing:</b> Dave, Bertie, Andrew, Steve W, Steve D, John C, Fred, Nigel<br><br><b>Apologies:</b> John Mc, Malcolm, Peter<br><br><br><br><br><br>\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"85\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/clubhouse-blue-sky-420x200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>August 20th</b><br><b>Where </b>Not Lingdale GC but <b>Kirby</b><br><b>Organiser: Dave West</b><br><b>Details: </b>Tee Times 2:05 &amp; 2:13<br><b>Cost: </b>£50 per tee time<br>&nbsp;<br><b>Playing:</b> Dave, Bertie, Andrew, Steve W, Steve D, John C, Fred, Nigel<br><br><b>Apologies:</b> John Mc, Malcolm, Peter<br><br><br><br><br><br>\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content6-c",
           "_isUserblock": true,
           "_cid": "qHb7RXEPCj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Well, another fascinating day. Lingdale Golf Club was supposed to be our destination but once our organiser for the day had found out that they were going to be dressing the greens, he decided that a late switch to play at Kirby Muxloe was the best thing to do. Unfortunately not everyone saw the messages and Mr Wine ended up at Lingdale. All was not lost, he sped on to Kirby in time for lunch. Lunch deserves a mention - there wasn't any in the clubhouse - but \"fear not\" said Mr Grumpy (senior), \"the halfway house will do sandwiches\". Two bacon baps were all they could provide, oh and a Cornish pasty for Mr Grumpy (junior). Finally Bomber Mills arrived and off we went sandwiched between the juniors and the ladies.</p><p>I went out partnered with Mr Average. No incidents for him this time. Check out the photo of him on the 10th tee as we waited for the ladies' singles match including a referee to play through. We had Mr Twoshots Holiday to contend with. 4 points here, 3 points there. That and a steady backup round from our host meant they were the clear winners of the day's pairs competition.</p><p>Meanwhile behind us Bomber was burning up the course fuelled by a constant supply of sugary substances from Mr Sweetie (aka Mr Wine). A near hole-in-one on the 2nd, a monster drive on the 11th and a further birdie gave Bomber the leading individual score. His partner, magnificent at Walmley, was curiously out of sorts. Maybe it was the sand on the greens that put him off. Hang on, didn't we not play at Lingdale because of work on their greens? Better not go there. His fellow Sutton member didn't fare much better, hence his new moniker Mr Grumpy (junior).</p><p>And so to supper at the excellent Harrison Spice. It took Mr Wine a little while to get there and as I was following him it meant we missed the opening of the bottle of beer. No matter there was still enough left for all 8 of us to have had a good glassful. From one bottle? Yes it was huge! Much talk of the golf tour. Norfolk started out as favourite but once the \"pairs only\" offer at Hunstanton was fully grasped, it left our Mr Tour-Organiser (2nd) with a bit more work to do. It was also spotted that with our uncertain numbers, there was an evens chance there would be an odd number of us - pairs might not work? Someone found this hilarious - nothing to do with the beer, surely?</p><p>Our journey-challenged Mr Wine had a further set back. On his way home the M6 was closed and he had to take yet another detour, this time via Coventry. Oh heck. It can only be easier at Harborne.</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r1n39mXdn1",
+          "_anchor": "content1-1v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1917,6 +1935,7 @@
           "_name": "gallery3",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\"></div>\n    </div>\n\n</section>",
           "_cid": "r1m7VpefKM",
+          "_anchor": "gallery3-1u",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -1949,30 +1968,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/20180820-213109-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20180820-213109-2000x1500-800x600.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-89-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-89-640x480-640x480.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-91-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-91-640x480-640x480.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2021,6 +2016,30 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/20180820-151217-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20180820-151217-2000x1500-800x600.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-89-462x416.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-89-462x416-462x416.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-91-468x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-91-468x448-468x448.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2087,6 +2106,18 @@
                 "active": false
               },
               {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-85-1520x1755.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-85-1520x1755-800x1200.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -2099,8 +2130,7 @@
                 "active": false
               }
             ]
-          },
-          "_anchor": "gallery3-1u"
+          }
         },
         {
           "_styles": {
