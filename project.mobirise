@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -2160,6 +2160,24 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>It all went very well at Harborne and beyond. We all turned up on time. Lunch was fine. But it was windy (no, not the lunch)!</p><p>Actually we all coped pretty well with really quite a strong wind. The sun shone and the scores were probably the closest we have had all year. The team prize (if there were one) went to Andrew, Steve D and yours truly. But only by one point.</p><p>Individually the best front nine, by far, was produced by Mr Wine. 22 points. However he is only used to playing 9 holes and the novelty of a 2nd nine soon wore off. He still came 2nd overall <b>and</b> with a bad back. Peter Pan also performed very well - another good front nine. But the best performance came from Mr Bond who would have done even better had he not been worried on the 18th that he would be cut if he carried playing so well. He still had a great back nine and has been duly cut by two shots. Well done Andrew.</p><p>And on we went to a favourite evening venue. To the Old Mo for excellent beer and curry. Much laughter and merriment (mainly about the forthcoming Norfolk trip) was a fitting end to a very enjoyable day. Thanks Steve.</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r4umMGL24U",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-1z"
         },
         {
           "_styles": {
