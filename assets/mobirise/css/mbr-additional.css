@@ -2742,6 +2742,15 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-r6hGbXHEN2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r6hGbXHEN2 .mbr-text,
+.cid-r6hGbXHEN2 blockquote {
+  color: #767676;
+}
 .cid-qHb1Zjfwxz .navbar {
   padding: .5rem 0;
   background: #333333;
