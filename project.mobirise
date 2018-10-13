@@ -2552,12 +2552,12 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20181007-130513-2000x1125.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181007-130513-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20181008-114625-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20181008-114625-2000x1125-800x450.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2576,12 +2576,12 @@
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20181008-114625-2000x1125.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181008-114625-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20181007-130513-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20181007-130513-2000x1125-800x450.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2640,8 +2640,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20181009-132514-2000x1125.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181009-132514-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20181009-150800-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20181009-150800-2000x1125-800x450.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2690,18 +2690,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/20181009-150734-2000x1125.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20181009-150734-2000x1125-800x450.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20181009-150800-2000x1125.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20181009-150800-2000x1125-800x450.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2909,7 +2897,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -2933,19 +2921,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-996-640x451.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-996-640x451-640x451.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           }
@@ -2960,7 +2936,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>It started with a little bit of sibling rivalry. OK it wasn't quite Cain and Abel but we nearly went to Aberdovey without one of them. They are clearly both Cambrophiles because we also nearly went to South Wales. Fortunately sense prevailed and we ended up in Norfolk. And what a good time we had.</p><p>First up was Sherringham where we all (nearly) met at midday for some sandwiches. The golf followed in good weather and noted performers were John (Mr Lucky) McKeon, Malcolm (the Dr) and Steve (holiday) Dewar. The course was excellent with a number of cheeky surprises mainly in the form of unexpected bunkers. We did end up missing a 4 wood and a head cover. The following groups failed to offer them up and so the Doctor had to go to Heacham and the following day without them.</p><p>Sunday evening we checked in to really quite a good hotel but not quite seamlessly. Jerry (Macbeth...er) mislaid his phone. It took a while but eventually showed up where he had left it in his bedroom. Meanwhile John (Mr Wine) was uncorking numerous bottles. The pre-dinner party was a good start to the evening. Just at the start of the meal Mr Average turned up and off we went with the eatingl. Pretty good but made even better when Mr Grumpy (surely not for much longer) and Mr Wine went off to get the prizes for the day. Actually the prizes were disguised as bottles of wine which we had to drink. Difficult but not really.</p><p>Monday morning was off to Cromer after a full English and variations. Cromer started cool but soon warmed up despite a breezy wind from the south east. So who did well? Much the same as the day before plus a decent effort from Jerry. A lovely course and noticeably more difficult than the day at Sherringham. Maybe it was the white tees that our organiser as ever insisted we used. It needs to be said we were fuelled by flapjacks (do please return to the job Mrs Bomber) and Jelly Babies. The end of the afternoon was brightened by news of the lost club and cover - ready and waiting for Dr Golf to pick up on his way back. The rest of us enjoyed a pint before making our various ways back to the Heacham Manor hotel.</p><p>The evening was all about the Rose and Crown in Snettisham. A gem of a pub with a better than average retaurant. Taxis took us to and from the pub (topped and tailed by our touring victualler supplying us with more of his excellent wine). Good preparation for our final day of golf at the hotel's course which meant no travelling.</p><p>Not to be forgotten is our southwestern participant. OK he doesn't play very often but Peter Pan managed his handicap over the first two rounds so that he even was being given 3 shots on some holes! He went out with Jerry, John C and Fred but even with all the shots failed to make a score to trouble leaders. Out first were the sprinters, Nigel, Steve W (who by the way did all the recording and handicap calculations) and me. Bomber Mills started slowly before blasting his way to not just the best score of the day but the best score of the tour. A terrific round. We finished at 2pm.....nearly 2 hours before the final group.</p><p>Mr Grumpy played steadily but with the weight of a tough handicap and organising the tour didn't quite get there. Mr Lucky (aka Charming) joint 2nd going into the final round faded under the considerable pressure of playing with such talent. Which left Dr Golf vs Mr Holiday. It came down to the 18th. The Doctor needed a par and Mr Holiday needed to blob. Steve duly obliged but Malcom couldn't quite make the par.</p><p>Prize giving was outside in wonderful warm sunshine but before that we were entertained by our touring comedian. Tea was delivered by John to the table and so was the milk.....almost. It took a lot of mopping up but it did make us laugh - a lot.</p><p>And so we have a new champion and holder of the Old Brigade trophy. Congratulations Steve.</p><p>Finally thanks to Dave for organising it all. &nbsp;A great tour.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>It started with a little bit of sibling rivalry. OK it wasn't quite Cain and Abel but we nearly went to Aberdovey without one of them. They are clearly both Cambrophiles because we also nearly went to South Wales. Fortunately sense prevailed and we ended up in Norfolk. And what a good time we had.</p><p>First up was Sherringham where we all (nearly) met at midday for some sandwiches. The golf followed in good weather and noted performers were John (Mr Lucky) McKeon, Malcolm (the Dr) and Steve (Holiday) Dewar. The course was excellent with a number of cheeky surprises mainly in the form of unexpected bunkers. We did end up missing a 4 wood and a head cover. The groups of players following failed to offer them up and so the Doctor had to go to Heacham and the following day without them.</p><p>On Sunday evening we checked in to really quite a good hotel but not quite seamlessly. Jerry (Macbeth...er) mislaid his phone. It took a while but eventually showed up where he had left it in his bedroom. Meanwhile John (Mr Wine) was uncorking numerous bottles. The pre-dinner party was a good start to the evening. Just at the start of the meal Mr Average turned up and off we went with the meal. Pretty good but made even better when Mr Grumpy (surely not for much longer) and Mr Wine went off to get the prizes for the day. Actually the prizes were disguised as bottles of wine which we had to drink. Difficult but not really.</p><p>Monday morning was off to Cromer after a full English and variations. Cromer started cool but soon warmed up despite a breezy wind from the south east. So who did well? Much the same as the day before plus a decent effort from Jerry. A lovely course and noticeably more difficult than the day at Sherringham. Maybe it was the white tees that our organiser as ever insisted we used. It needs to be said we were fuelled by flapjacks (do please return to the job Mrs Bomber) and Jelly Babies. The end of the afternoon was brightened by news of the lost club and cover - ready and waiting for Dr Golf to pick up on his way back. The rest of us enjoyed a pint before making our various ways back to the Heacham Manor hotel.</p><p>The evening was all about the Rose and Crown in Snettisham. A gem of a pub with a better than average retaurant. Taxis took us to and from the pub (topped and tailed by our touring victualler supplying us with more of his excellent wine). Good preparation for our final day of golf at the hotel's course which meant no travelling.</p><p>Not to be forgotten is our southwestern participant. OK he doesn't play very often but Peter Pan managed his handicap over the first two rounds so that he even was being given 3 shots on some holes! He went out with Jerry, John C and Fred but, even with all the shots, didn't quite make a score to trouble leaders. Out first were the sprinters, Nigel, Steve W (who by the way did all the recording and handicap calculations) and me. Bomber Mills started slowly before blasting his way to not just the best score of the day but the best score of the tour. A terrific round. We finished at 2pm.....nearly 2 hours before the final group.</p><p>Mr Grumpy played steadily but with the weight of a tough handicap and organising the tour didn't quite get there. Mr Lucky (aka Charming), joint 2nd going into the final round, faded under the considerable pressure of playing with such talent. Which left Dr Golf vs Mr Holiday. It came down to the 18th. The Doctor needed a par and Mr Holiday needed to blob. Steve duly obliged but Malcom couldn't quite make the par.</p><p>Prize giving was outside in wonderful warm sunshine but before that we were entertained by our touring comedian. Tea was delivered by John to the table and so was the milk.....almost. It took a lot of mopping up but it did make us laugh - a lot. After all there's no point crying over splt milk!</p><p>And so we have a new champion and holder of the Old Brigade trophy. Congratulations Steve.</p><p>Finally thanks to Dave for organising it all. &nbsp;A great tour.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r6hGbXHEN2",
           "_anchor": "content1-22",
           "_protectedParams": [],
